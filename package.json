@@ -1,5 +1,5 @@
 {
-  "name": "amazon-clone",
+  "name": "npm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Overview",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

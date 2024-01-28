@@ -1,0 +1,7 @@
+# .gitignore
+
+# Dependency directories
+node_modules/
+
+# npm lock file
+package-lock.json
